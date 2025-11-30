@@ -9,7 +9,7 @@
 | **Version** | `0.0.8` |
 | **Total Runs** | 640 |
 | **Total Users** | 44 |
-| **Stats Date** | Oct 3, 2025 |
+| **Stats Date** | Nov 30, 2025 |
 
 ---
 
